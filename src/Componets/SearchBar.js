@@ -29,8 +29,8 @@ const handleClick = async () =>{
         <>
         <div>
           <div className='nav'>
-          <Link to="/" className='nav1'>Homepage</Link>
-            <Link to="Searchpage" className='nav1'>Searchpage</Link>
+          <Link to="/" className='nav1'>Home</Link>
+            <Link to="Searchpage" className='nav1'>Search</Link>
           </div>
           <h1>REPO SEARCH</h1>
            <div className='input'>
